@@ -1,4 +1,4 @@
-### Olá. Meu chamou Einstein 👋
+### Olá. Me chamo Einstein 👋
 
 - 🔭 Atualmente trabalho como TL Java/Android na Act Digital
 - 🌱 Estudando Android/Kotlin
