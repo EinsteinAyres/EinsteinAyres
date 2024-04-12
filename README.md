@@ -1,6 +1,6 @@
 ### Olá. Me chamo Einstein 👋
 
-- 🔭 Atualmente trabalho como TL Java/Android na Act Digital
+- 🔭 Atualmente trabalho como freelancer Java/React Native
 - 🌱 Estudando Android/Kotlin
 - 🌱 Estudando Front-end
 - 🌱 Estudando Comunicação para Devs
