@@ -1,8 +1,8 @@
 ### Olá. Me chamo Einstein 👋
 
-- 🔭 Atualmente trabalho como freelancer Java/React Native
-- 🌱 Estudando React Native/Kotlin
-- 🌱 Estudando Front-end
+- 🔭 Atualmente trabalho com Java/Kotlin/React Native
+- 🌱 Pós-graduado em Arquitetura de Software
+- 🌱 Cursando Pós em Cloud Computing
 - 🌱 Estudando Comunicação para Devs
 - 💬 Me pergunte sobre comunicação para Devs
 - 📫 Contato de e-mail: ayresasouza@gmail.com
@@ -20,7 +20,8 @@
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/tree/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/amazonwebservices" />
+  
           
 </div>
 
