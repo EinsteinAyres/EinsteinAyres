@@ -1,8 +1,8 @@
 ### Olá. Me chamo Einstein 👋
 
 - 🔭 Atualmente trabalho com Java/React Native/Cloud (AWS, Azure)
-- 🌱 Pós-graduado em Arquitetura de Software
-- 🌱 Cursando Pós em Cloud Computing
+- 🌱 Pós-graduado em Arquitetura de Software e Cloud Computing
+- 🌱 Cursando Pós em Inteligência Artificial
 - 🌱 Estudando Comunicação para Devs
 - 💬 Me pergunte sobre comunicação para Devs
 - 📫 Contato de e-mail: ayresasouza@gmail.com
